@@ -33,11 +33,6 @@
 - 📫 Email: **shivamsharma123jmt@gmail.com**
 - 👩🏻‍💻 Portfolio: **https://shivamsharmadiatm.netlify.app**
 
-<img src="https://media1.tenor.com/m/UttC4AITYR4AAAAd/full-stack-developer.gif" width ="280"/>
-<img src="https://miro.medium.com/1*d7QeSREErtMuJQ0bcptMXQ.gif" width="280"/>
-
-
-
 </td>
 
 <td width="40%" align="center">
@@ -49,8 +44,6 @@
 
 
 <br><br>
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280"/>
 
 </td>
 
