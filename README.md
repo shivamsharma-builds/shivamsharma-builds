@@ -15,10 +15,9 @@
 </p>
 
 
-<table>
-<tr>
+<img src="https://avatars.githubusercontent.com/u/204150447?v=4" width="280"/>
 
-<td width="60%" valign="top">
+
 
 ## 💛 About Me
 
@@ -32,31 +31,15 @@
 - 📍 Location: **Jamtara, Jharkhand, India**
 - 📫 Email: **shivamsharma123jmt@gmail.com**
 - 👩🏻‍💻 Portfolio: **https://shivamsharmadiatm.netlify.app**
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://avatars.githubusercontent.com/u/204150447?v=4" width="280"/>
-
-<h3><a href="https://shivamsharmadiatm.netlify.app/Shivam_Sharma_Resume_2026.pdf">View Resume </a></h3>
-
-
+- 🧑‍💼 Resume : **https://shivamsharmadiatm.netlify.app/Shivam_Sharma_Resume_2026.pdf**
 
 <br><br>
-
-</td>
-
-</tr>
-</table>
 
 <p align="center"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Shivamsharma-builds/Shivamsharma-builds/blob/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Shivamsharma-builds/Shivamsharma-builds/blob/output/github-snake.svg">
   <img alt="github contribution grid snake animation" src="https://github.com/Shivamsharma-builds/Shivamsharma-builds/blob/output/github-snake.svg">
 </picture></p>
-
-
 
 
 ## 🤔 About my work / focus
