@@ -30,7 +30,7 @@
 - 🎯 My goal is to become a **Professional Full Stack Developer**
 - 📍 Location: **Jamtara, Jharkhand, India**
 - 📫 Email: **shivamsharma123jmt@gmail.com**
-- 👩🏻‍💻 Portfolio: **https://shivamsharmadiatm.netlify.app**
+- 👩🏻‍💻 Portfolio: **https://shivamsharma-builds.netlify.app**
 - 🧑‍💼 Resume : **https://shivamsharmadiatm.netlify.app/Shivam_Sharma_Resume_2026.pdf**
 
 <br><br>
@@ -100,52 +100,28 @@ My repositories show a mix of production-style apps (deployable front + back), d
 
 ## 🗂️ Pinned projects
 
-<table>
-<tr>
-<td>
-  <h4> <a href="https://github.com/Shivamsharma-builds/AI-Image-analyzer"> AI-Image-analyzer (VisionLab) — AI-powered image analysis platform (Vite + React frontend, Node + Express backend). </a> </h4>
-</td>
-  
-<td>
+
+AI-Image-analyzer (VisionLab) — AI-powered image analysis platform (Vite + React frontend, Node + Express backend).</h4>
+<a href="https://github.com/Shivamsharma-builds/AI-Image-analyzer" /> 
+
   <h4> <a href="https://github.com/Shivamsharma-builds/Jewelry-E-Commerce">  Jewelry-E-Commerce — Full-stack e‑commerce platform for jewelry sales (frontend + backend). </a> </h4> 
-</td>
-<td>
+
   <h4> <a href="https://github.com/Shivamsharma-builds/jewellery-frontend"> jewellery-frontend — Frontend for the jewelry site (deployed on Vercel). </a> </h4> 
   Live: https://jewellery-frontend-lyart.vercel.app  
-</td>
-</tr>
 
-<tr>
-<td>
+
   <h4> <a href="https://github.com/Shivamsharma-builds/jewellery-backend">  jewellery-backend — Small Node backend for the jewelry project (deployed). </a> </h4> 
   Live: https://jewellery-backend-bice.vercel.app  
-</td>
-  
-<td>
+
   <h4> <a href="https://github.com/Shivamsharma-builds/Hacktopus-Tech-Triran">    Hacktopus-Tech-Triran — JavaScript project (event/client project).  </a> </h4> 
   
-</td>
-<td>
   <h4> <a href="https://github.com/Shivamsharma-builds/portfolio">  portfolio — Personal portfolio static site (HTML/CSS). 
-</td>
-</tr>
-<tr>
-<td>
+
+
   <h4> <a href="https://github.com/Shivamsharma-builds/weather-main">  weather-main — Small weather demo / static HTML project.  </a> </h4> 
-</td>
-  
-<td>
+
+
   <h4> <a href="https://github.com/Shivamsharma-builds/Library_Management"> Library_Management — C++ library management system (learning/project).  </a> </h4> 
-</td>
-<td>
-  
-</td>
-
-
-
-</tr>
-
-</table>
 
 # 🌐 Connect With Me
 
