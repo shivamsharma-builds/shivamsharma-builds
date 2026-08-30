@@ -100,28 +100,31 @@ My repositories show a mix of production-style apps (deployable front + back), d
 
 ## 🗂️ Pinned projects
 
+Crop prediction using Generative AI : uses llm to predict the crop of a particular region. Langchain, LANGGRAPH & Open router api.
 
-AI-Image-analyzer (VisionLab) — AI-powered image analysis platform (Vite + React frontend, Node + Express backend).</h4>
-<a href="https://github.com/Shivamsharma-builds/AI-Image-analyzer" /> 
-
-  <h4> <a href="https://github.com/Shivamsharma-builds/Jewelry-E-Commerce">  Jewelry-E-Commerce — Full-stack e‑commerce platform for jewelry sales (frontend + backend). </a> </h4> 
-
-  <h4> <a href="https://github.com/Shivamsharma-builds/jewellery-frontend"> jewellery-frontend — Frontend for the jewelry site (deployed on Vercel). </a> </h4> 
-  Live: https://jewellery-frontend-lyart.vercel.app  
+live demo : **https://ai-crop-prediction.onrender.com/**
 
 
-  <h4> <a href="https://github.com/Shivamsharma-builds/jewellery-backend">  jewellery-backend — Small Node backend for the jewelry project (deployed). </a> </h4> 
-  Live: https://jewellery-backend-bice.vercel.app  
+AI-Image-analyzer (VisionLab) — AI-powered image analysis platform (Vite + React frontend, Node + Express backend).
 
-  <h4> <a href="https://github.com/Shivamsharma-builds/Hacktopus-Tech-Triran">    Hacktopus-Tech-Triran — JavaScript project (event/client project).  </a> </h4> 
-  
-  <h4> <a href="https://github.com/Shivamsharma-builds/portfolio">  portfolio — Personal portfolio static site (HTML/CSS). 
+live demo : **https://ai-image-analyzer-2xm9.onrender.com/**
+
+Basic custom HTTP server build from scratch using C/C++, handling selected https request and non blocking I/O with CGI.
+
+live demo : **https://http-server-xvbc.onrender.com/**
+
+Jewelry-E-Commerce — Full-stack e‑commerce platform for jewelry sales (frontend + backend).
+
+live demo : **https://ai-image-analyzer-2xm9.onrender.com/**
+
+portfolio — Personal portfolio using MERN STACK with cloud storage. Library & framework used : Lenis,GSAP
+
+live demo : **https://shivamsharma-builds.vercel.app/**
 
 
-  <h4> <a href="https://github.com/Shivamsharma-builds/weather-main">  weather-main — Small weather demo / static HTML project.  </a> </h4> 
+Library_Management — C++ library management system (learning/project).
 
-
-  <h4> <a href="https://github.com/Shivamsharma-builds/Library_Management"> Library_Management — C++ library management system (learning/project).  </a> </h4> 
+Repo : **https://github.com/Shivamsharma-builds/Library_Management**
 
 # 🌐 Connect With Me
 
