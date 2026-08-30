@@ -31,9 +31,12 @@
 - 📍 Location: **Jamtara, Jharkhand, India**
 - 📫 Email: **shivamsharma123jmt@gmail.com**
 - 👩🏻‍💻 Portfolio: **https://shivamsharma-builds.netlify.app**
-- 🧑‍💼 Resume :
-<input type="button" value="Resume">
-https://shivamsharma-builds.netlify.app/api/media/resume%2F1787733396205-70bf38c6-b187-435b-bc59-fc53535a7b73.pdf
+
+<br>
+
+[![Resume](https://img.shields.io/badge/📄_View-Resume-0070f3?style=for-the-badge)](https://shivamsharma-builds.netlify.app/api/media/resume%2F1787733396205-70bf38c6-b187-435b-bc59-fc53535a7b73.pdf)
+
+
 
 <br><br>
 
