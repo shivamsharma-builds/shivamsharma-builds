@@ -14,9 +14,9 @@
   <img src="https://img.shields.io/github/stars/Shivamsharma-builds?label=Stars&style=flat&color=yellow" />
 </p>
 
-
+<p align="center">
 <img src="https://avatars.githubusercontent.com/u/204150447?v=4" width="280"/>
-
+</p>
 
 
 ## 💛 About Me
@@ -34,7 +34,8 @@
 
 <br>
 
-[![Resume](https://img.shields.io/badge/📄_View-Resume-0070f3?style=for-the-badge)](https://shivamsharma-builds.netlify.app/api/media/resume%2F1787733396205-70bf38c6-b187-435b-bc59-fc53535a7b73.pdf)
+[![Resume](https://img.shields.io/badge/Resume-0070f3?style=for-the-badge)](https://shivamsharma-builds.netlify.app/api/media/resume%2F1787733396205-70bf38c6-b187-435b-bc59-fc53535a7b73.pdf)
+
 
 
 
